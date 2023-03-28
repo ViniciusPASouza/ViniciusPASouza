@@ -1,12 +1,10 @@
 <details>
-<summary> 🌱 Formação  > </summary>
+<summary> Formação Acadêmica  > </summary>
  
-Discente do Curso de Qualificação Profissional Full-Stack - SENAI/SP
-Mestre em Tecnologias e Comunicação - UFU
+◉ Discente do Curso de Qualificação Profissional Full-Stack - SENAI/SP
+◉ Mestre em Tecnologias e Comunicação - UFU
 
 </details>
-
-
  
  
 ### 📫 Contatos: 
