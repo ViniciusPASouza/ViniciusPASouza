@@ -6,16 +6,16 @@
 ### :beginner: Mestre em Tecnologias e Comunicação - UFU <br>
 
 
- 
+ <br>
  
 ## :bulb: Contatos: 
-<br>
 
 ### :beginner: viniciuspiinhal@gmail.com
 
+<br>
 
 ## :bulb: Áreas de atuação
-<br>
+
 
 ### :beginner: UX e IX 
 ### :beginner: Prototipagem Figma
