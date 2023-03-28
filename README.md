@@ -1,6 +1,5 @@
 
 ## :bulb: Formação 
-<br>
 
 ### :beginner: Discente do Curso de Qualificação Profissional Full-Stack - SENAI/SP 
 ### :beginner: Mestre em Tecnologias e Comunicação - UFU <br>
