@@ -9,13 +9,13 @@
  
 ## :bulb: Contatos
 
-### :beginner: viniciuspiinhal@gmail.com
+#### :beginner: viniciuspiinhal@gmail.com
 
 <br>
 
 ## :bulb: Áreas de atuação
 
 
-### :beginner: UX e IX 
-### :beginner: Prototipagem Figma
-### :beginner: HTML / CSS 
+#### :beginner: UX e IX 
+#### :beginner: Prototipagem Figma
+#### :beginner: HTML / CSS 
