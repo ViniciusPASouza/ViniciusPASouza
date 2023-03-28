@@ -1,13 +1,13 @@
 
 ## :bulb: Formação 
 
-### :beginner: Discente do Curso de Qualificação Profissional Full-Stack - SENAI/SP 
-### :beginner: Mestre em Tecnologias e Comunicação - UFU <br>
+#### :beginner: Discente do Curso de Qualificação Profissional Full-Stack - SENAI/SP 
+#### :beginner: Mestre em Tecnologias e Comunicação - UFU <br>
 
 
  <br>
  
-## :bulb: Contatos: 
+## :bulb: Contatos
 
 ### :beginner: viniciuspiinhal@gmail.com
 
