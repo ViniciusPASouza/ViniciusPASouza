@@ -1,17 +1,19 @@
 
-### :bulb: Formação <br>
-
-## Discente do Curso de Qualificação Profissional Full-Stack - SENAI/SP 
-## Mestre em Tecnologias e Comunicação - UFU <br>
+### :bulb: Formação 
+<br> 
+## :beginner: Discente do Curso de Qualificação Profissional Full-Stack - SENAI/SP 
+## :beginner: Mestre em Tecnologias e Comunicação - UFU <br>
 
 
  
  
 ### :bulb: Contatos: 
-## viniciuspiinhal@gmail.com
+<br>
+## :beginner: viniciuspiinhal@gmail.com
 
 
 ### :bulb: Áreas de atuação
+<br>
 ## :beginner: UX e IX 
 ## :beginner: Prototipagem Figma
 ## :beginner: HTML / CSS 
