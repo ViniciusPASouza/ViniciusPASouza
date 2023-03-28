@@ -1,8 +1,7 @@
 <details>
-<summary> Formação Acadêmica  > </summary>
+<summary> ### Formação Acadêmica  > </summary>
  
 ◉ Discente do Curso de Qualificação Profissional Full-Stack - SENAI/SP <br>
- 
 ◉ Mestre em Tecnologias e Comunicação - UFU <br>
 
 </details>
