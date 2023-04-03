@@ -14,6 +14,6 @@
 ## Áreas de atuação
 
 
-#### :beginner: UX e IX 
-#### :beginner: Prototipagem Figma
-#### :beginner: HTML / CSS 
+#### UX e IX 
+#### Prototipagem Figma
+#### HTML / CSS 
