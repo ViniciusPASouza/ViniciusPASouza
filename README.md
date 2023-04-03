@@ -1,5 +1,5 @@
 
-## :bulb: Formação 
+## Formação 
 
 #### Discente do Curso de Qualificação Profissional Full-Stack - SENAI/SP 
 
