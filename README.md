@@ -1,19 +1,10 @@
+## Bem-vindo, 
 
-## Formação 
+<b> Informações e experiências na área de TI </b> <br>
 
-#### Discente do Curso de Qualificação Profissional Full-Stack - SENAI/SP 
+✔ Desenvolvedor Full-Stack pelo SENAI-SP. <br> 
 
- <br>
- 
-## Contatos
-
-#### viniciuspiinhal@gmail.com
-
-<br>
-
-## Áreas de atuação
+✔ Contato: viniciuspiinhal@gmail.com
 
 
-#### UX e IX 
-#### Prototipagem Figma
-#### HTML / CSS 
+
